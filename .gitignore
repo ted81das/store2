@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+/storage
+/public
+/vendor
+/node_modules
+/resources/*
+!/resources/views
+!/resources/views/*
